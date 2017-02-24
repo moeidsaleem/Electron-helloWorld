@@ -1,0 +1,14 @@
+{
+  "name": "hello-world-electron",
+  "version": "1.0.0",
+  "description": "elctron hello world app.",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "atrixdigital",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.4.15"
+  }
+}
